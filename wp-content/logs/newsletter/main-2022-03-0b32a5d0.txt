@@ -1,0 +1,1 @@
+21-03-2022 06:50:12 - ERROR - 7.4.0 - 58.8 MB/512 MB - [cron] > cURL error 28: Connection timed out after 5010 milliseconds (http_request_failed) - 
